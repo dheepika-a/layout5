@@ -1,0 +1,262 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.built .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.shorline .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.subscribe .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.contact .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.header
+{
+	 background-color:rgb(44,62,80);
+	 height:59px;
+	 
+	 
+}
+.header .header-fc
+{ 
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:white;
+	width:258px;
+	height:49px;
+	margin-top:5px;
+}
+.header .header-fc .header-navi
+{
+	background-color:white;
+	width:350px;
+	height:49px;
+	margin-top:5px;
+	
+}
+.logo
+{
+	 background-color:rgb(125,125,125);
+	 height:511px;
+}
+
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+}
+			
+.logo .logo-fc .logotext
+{
+	text-align:center;
+	margin-top:50px;
+}
+.logo .logo-fc .logobox
+{
+	background-color:white;
+	width:181px;
+	height:61px;
+	margin-top:50px;
+}
+
+.built
+{
+	background-color:rgb(4,4,4);
+	 height:600px;
+}
+.built .built-fc 
+{
+	display:flex;
+	justify-content:center;
+}
+.built .built-fc .builtbox
+{
+	background-color:lightblue;
+	width:900px;
+	height:272px;
+	margin-top:100px;
+}
+
+
+.shorline
+{
+		background-color:beige;
+	 height:600px;
+}
+.shorline .shorline-fc
+{
+	display:flex;
+	flex-direction:row;
+} 
+
+.shorline .shorline-fc .shorbox
+{
+	background-color:white;
+	width:550px;
+	height:516px;
+	margin-top:10px;
+}
+.shorline .shorline-fc .shortext
+{
+	text-align:center;
+		margin-top:10px;
+}        
+.portfolio
+{
+	background-color:white;
+	 height:910px;
+}   
+.portfolio .portfolio-fc   
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}       
+.portfolio .portfolio-fc  .pica  
+{
+	background-color:navy;
+	width:420px;
+	height:435px;
+	margin-top:5px;
+}
+.portfolio .portfolio-fc  .picb
+{
+		background-color:grey;
+width:420px;
+	height:435px;
+	margin-top:5px;
+}
+.portfolio .portfolio-fc  .picc
+{
+		background-color:navy;
+	width:420px;
+	height:435px;
+	margin-top:5px;
+}
+.portfolio .portfolio-fc  .picd
+{
+	background-color:grey;
+	width:420px;
+	height:435px;
+	margin-top:5px;
+}
+.subscribe
+{
+	background-color:gray;
+	height:384px;
+}
+.subscribe .subscribe-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.subscribe .subscribe-fc .subtext
+{
+	text-align:center;
+	width:100%;
+	margin-top:40px;
+	
+}
+.subscribe .subscribe-fc .subboxa
+{
+	background-color:white;
+	width:635px;
+	height:66px;
+	margin-top:40px;
+	}
+.subscribe .subscribe-fc .subboxb
+{
+	background-color:navy;
+	width:165px;
+	height:60px;
+	margin-top:40px;
+	}
+.contact
+{
+	background-color:gray;
+	height:508px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-direction:row;
+}
+.contact .contact-fc .boxa
+{
+	background-color:skyblue;
+	width:300px;
+	height:100px;
+	margin-top:40px;
+}
+.contact .contact-fc .boxb
+{
+	background-color:skyblue;
+	width:300px;
+	height:100px;
+	margin-top:40px;
+}
+.contact .contact-fc .boxc
+{
+	background-color:skyblue;
+	width:300px;
+	height:100px;
+	margin-top:40px;
+}
+.website
+{
+	background-color :gray;
+	
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+}
+.website .website-fc .copyright
+{
+	background-color:pink;
+	width:206px;
+	height:35px;
+}
